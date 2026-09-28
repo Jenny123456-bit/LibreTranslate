@@ -101,7 +101,7 @@ LibreTranslate 采用 **AGPL-3.0**——若你将修改后的服务通过网络�
 
 ---
 
-## 九、致谢
+## 九、致谢与许可（Credits & License）
 
 翻译引擎由 [Argos Translate](https://github.com/argosopentech/argos-translate) 提供；上游项目 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) 采用 AGPL-3.0 许可。
 
